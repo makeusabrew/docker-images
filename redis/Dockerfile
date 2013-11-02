@@ -1,6 +1,6 @@
 FROM ubuntu
 
-MAINTAINER Nick Payne
+MAINTAINER Nick Payne <nick@kurai.co.uk>
 
 RUN apt-get install -y wget build-essential
 
