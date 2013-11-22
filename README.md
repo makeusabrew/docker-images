@@ -10,9 +10,8 @@ mounts /data/db as a volume.
 
 ## [makeusabrew/redis](https://index.docker.io/u/makeusabrew/redis/)
 
-A simple Redis server. Currently builds the latest 2.8.0
-release candidate from source. Exposes port 6379, mounts /redis-data as
-a volume.
+A simple Redis server. Currently builds 2.8.0 from source. Exposes
+port 6379, mounts /redis-data as a volume.
 
 ## [makeusabrew/zeromq](https://index.docker.io/u/makeusabrew/zeromq/)
 
